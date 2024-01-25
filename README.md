@@ -4,7 +4,7 @@ Hi 👋 My name is Engr. Kirk Alyn Santos
 Software Engineer
 -----------------
 
-This Github Profile is for anything Carbonetes-related. To check my personal profile, visit [here](https://github.com/kirkalyn13).
+This Github Profile is for anything [Carbonetes](https://github.com/carbonetes)-related. To check my personal profile, visit [here](https://github.com/kirkalyn13).
 
 *   🌍  I'm based in Angeles City
 *   ✉️  You can contact me at [kirkalyn13@gmail.com](mailto:kirkalyn13@gmail.com)
